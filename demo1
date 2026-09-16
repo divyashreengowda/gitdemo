@@ -24,3 +24,5 @@ $ git commit -m "Add a new file called my_file.txt"
 After these steps, your changes will be committed to the Git repository with the provided commit message. You now have a version of the repository with the new file and its history stored in Git.
 
 Changes to updated.
+changes updated
+
